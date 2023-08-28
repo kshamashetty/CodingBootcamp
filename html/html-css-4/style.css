@@ -1,0 +1,19 @@
+button {
+  background-color: blue;
+  color: white;
+  border: solid green 3px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+a {
+  color: purple;
+  border: solid purple 3px;
+}
+
+h1 {
+  padding: 40px;
+  border: solid orange 10px;
+}
