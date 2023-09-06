@@ -1,0 +1,32 @@
+/* box sizing */
+* {
+  box-sizing: border-box;
+}
+
+/* root variables */
+/* :root {
+  --blue: #0042c9;
+  --lightblue: #88cefa;
+  --lightgray: #e8ecef;
+  --darkgray: #bec4ce;
+} */
+
+/* body */
+body {
+  color: black;
+  background-color: white;
+  font-family: sans-serif;
+}
+
+/* link */
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+/* --------------------------------- */
+
+/* ul */
+ul {
+  list-style-type: none;
+}
